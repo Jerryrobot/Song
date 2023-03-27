@@ -70,11 +70,11 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("ʀᴇᴘᴏ", callback_data="repo")
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ALIEN_X_SUPPORT")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/king_x_network"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Freaky_Support")
         ],
         [
-            InlineKeyboardButton("ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ", url="https://t.me/ABOUT_MUKUND/15")
+            InlineKeyboardButton("ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ", url="https://t.me/lover_x_jerry")
         ]
     ]
 )
@@ -88,19 +88,19 @@ START_LUL = [
         InlineKeyboardButton("ʀᴇᴘᴏ", callback_data="repo"),
     ],
     [ 
-        InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ALIEN_X_SUPPORT"),
+        InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/king_x_network"),
+        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Freaky_Support"),
     ],
     [ 
-        InlineKeyboardButton("ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ", url="https://t.me/ABOUT_MUKUND/15"),
+        InlineKeyboardButton("ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ", url="https://t.me/lover_x_jerry"),
     ],    
 ]
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ALIEN_X_UPDATE")
+            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/king_x_network"),
+            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Freaky_Support")
         ]
     ]
 )
@@ -131,7 +131,7 @@ MUKUND_MUSIC = [
     ],
     [ 
         InlineKeyboardButton(text="ᴀᴅᴍɪɴs", callback_data="admin_cmd"),
-        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="mukund"),
+        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="lover_jerry"),
     ],
 ]
 
@@ -146,9 +146,9 @@ REPO_BUTTONS = [
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/Legend-Mukund/Song"),
     ],
     [ 
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/ALIEN_X_UPDATE"),
-        InlineKeyboardButton(text="Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/LEGEND_MUKUND"),
+        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/Freaky_Support"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/king_x_network"),
+        InlineKeyboardButton(text="Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/lover_x_jerry"),
     ],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="mukund"),
@@ -175,7 +175,7 @@ HELP_TEXT = """
 
 [»] ʀᴇᴀᴅ ɪᴛ ᴄᴀʀᴇ ғᴜʟʟʏ ɪᴛ ɪs ᴅɪᴠɪᴅᴇᴅ ɪɴᴛᴏ ᴛʜʀᴇᴇ sᴇᴄᴛɪᴏɴs .
 
-[»] ᴀɴᴅ ғᴏʀ ᴀɴʏ ᴋɪɴᴅ ᴏғ ʜᴇʟᴘ ᴊᴏɪɴ @ALIEN_X_SUPPORT !!!
+[»] ᴀɴᴅ ғᴏʀ ᴀɴʏ ᴋɪɴᴅ ᴏғ ʜᴇʟᴘ ᴊᴏɪɴ @Freaky_Support !!!
 
 """
 
@@ -188,7 +188,7 @@ OWNER_HELP = """
 
 [»] sᴏᴏɴ ɪ ᴡɪʟʟ ᴀᴅᴅ ᴍᴏʀᴇ.
 
-[»] ᴀɴᴅ ғᴏʀ ᴀɴʏ ᴋɪɴᴅ ᴏғ ʜᴇʟᴘ ᴊᴏɪɴ @ALIEN_X_SUPPORT !!!
+[»] ᴀɴᴅ ғᴏʀ ᴀɴʏ ᴋɪɴᴅ ᴏғ ʜᴇʟᴘ ᴊᴏɪɴ @Freaky_Support !!!
 
 """
 
@@ -224,7 +224,7 @@ A_HELP = """
 
 @bot.on_callback_query()
 def home(Client, CallbackQuery):
-    if CallbackQuery.data == "mukund":
+    if CallbackQuery.data == "lover_jerry":
         CallbackQuery.edit_message_text(
             START_TEXT,
             reply_markup = InlineKeyboardMarkup(START_LUL)
